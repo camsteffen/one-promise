@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "rootDir": "src",
+    "target": "ES6"
+  },
+  "include": ["src/**/*"]
+}
